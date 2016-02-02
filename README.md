@@ -9,7 +9,5 @@ video
 Img
 -----------------------
 ![](https://github.com/android-cjj/DelAnim/blob/master/video/a.jpg)
-
 ![](https://github.com/android-cjj/DelAnim/blob/master/video/b.jpg)
-
 ![](https://github.com/android-cjj/DelAnim/blob/master/video/c.png)
