@@ -12,4 +12,4 @@ Img
 
 ![](https://github.com/android-cjj/DelAnim/blob/master/video/b.jpg)
 
-![](https://github.com/android-cjj/DelAnim/blob/master/video/c.jpg)
+![](https://github.com/android-cjj/DelAnim/blob/master/video/c.png)
